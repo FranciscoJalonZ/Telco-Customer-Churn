@@ -1,4 +1,4 @@
-El proyecto utiliza el dataset *Telco Customer Churn* para identificar patrones de comportamiento en clientes de servicios de telefonía e internet. Se implementó un flujo de trabajo que abarca desde la limpieza de datos "crudos" hasta la evaluación de un modelo predictivo, asegurando la integridad de la información mediante el uso de **Pipelines**.
+El proyecto utiliza el dataset *Telco Customer Churn* para identificar patrones de comportamiento en clientes de servicios de telefonía e internet. Se implementó un flujo de trabajo que abarca desde la limpieza de datos "crudos" hasta la evaluación de un modelo predictivo, asegurando la integridad de la información mediante el uso de Pipelines.
 
 Tecnologías Utilizadas
 
@@ -32,13 +32,13 @@ Se seleccionó el algoritmo *Random Forest Classifier* debido a su robustez fren
 Resultados
 
 El modelo final alcanzó una métrica de desempeño sólida:
-* Precisión (Accuracy):** **0.7943** (79.43%)
+* Precisión (Accuracy):0.777 (78%)
 
 Este resultado demuestra la efectividad de las técnicas de preprocesamiento aplicadas, permitiendo que el modelo generalice correctamente sobre datos no vistos previamente.
 
 Estructura del Repositorio
 
-* proyecto_ml_ark.ipynb: Notebook principal con el código documentado.
+* Telco-custom-churm.ipynb: Notebook principal con el código documentado.
 * reporte_actividad.pdf: Informe detallado con análisis técnico y capturas de resultados.
 * README.md: Descripción general del proyecto.
 
